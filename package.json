@@ -1,0 +1,14 @@
+{
+  "name": "yelpmealstest",
+  "version": "1.0.0",
+  "description": "Yelp test",
+  "main": "CompareMeals.js",
+  "scripts": {
+    "test": "NODE_ENV=test jest --verbose --runInBand"
+  },
+  "author": "Liam Harland",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
